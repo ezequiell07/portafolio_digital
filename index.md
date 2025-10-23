@@ -1,14 +1,20 @@
-# 💻 Portafolio Digital de Aprendizaje – Teoría de la Programación
+# 💻Portafolio Digital de Aprendizaje – Teoría de la Programación
+## 📍UNIVERSIDAD NACIONAL DE LOJA - FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
+## 📕Carrera: Computación - Ciclo 1
+## 👨🏻‍🎓Estudiante: Emerson Chamba Galarza
+## 👩🏻‍🏫Docente: Ing. Lissette Geoconda López Faicán 
+
 
 ## 📚 Vista del Portafolio digital de aprendizaje
 
-### 🗃️ Unidad 1
-Temas de unidad 1:
+# 🗃️ Unidad 1
+## Temas vistos:
 [Trabajos, APE, AA Y ACD](unidad1.md)
-### 🗃️ Unidad 2 (No aplica)
-Temas de unidad 2:
-### 🗃️ Unidad 3 (No aplica)
-Temas de unidad 3:
+
+# 🗃️ Unidad 2 (No aplica)
+
+# 🗃️ Unidad 3 (No aplica)
+
 
 ### ✅ Conclusiones
 
