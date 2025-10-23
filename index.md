@@ -8,7 +8,7 @@
 ## 📚 Vista del Portafolio Digital de Aprendizaje
 
 # 🗃️ Unidad 1
-## 📑 Trabajos Entregadas (Evidencias): [Trabajos, APE, AA Y ACD](unidad1.md)
+## 📑 Trabajos Entregadas: [Trabajos, APE, AA Y ACD](unidad1.md)
 
 # 🗃️ Unidad 2 (No aplica)
 
