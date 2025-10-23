@@ -5,7 +5,7 @@
 ## 👩🏻‍🏫Docente: Ing. Lissette Geoconda López Faicán 
 
 
-## 📚 Vista del Portafolio digital de aprendizaje
+## 📚 Vista del Portafolio Digital de Aprendizaje
 
 # 🗃️ Unidad 1
 ## 📑 Trabajos Entregadas (Evidencias): [Trabajos, APE, AA Y ACD](unidad1.md)
