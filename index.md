@@ -1,5 +1,5 @@
 # 💻Portafolio Digital de Aprendizaje – Teoría de la Programación
-## 📍UNIVERSIDAD NACIONAL DE LOJA - FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
+## 📍Universidad Nacional de Loja - Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables.
 ## 📕Carrera: Computación - Ciclo 1
 ## 👨🏻‍🎓Estudiante: Emerson Chamba Galarza
 ## 👩🏻‍🏫Docente: Ing. Lissette Geoconda López Faicán 
