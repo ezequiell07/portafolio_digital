@@ -8,16 +8,14 @@
 ## 📚 Vista del Portafolio digital de aprendizaje
 
 # 🗃️ Unidad 1
-## Temas vistos:
-[Trabajos, APE, AA Y ACD](unidad1.md)
+## 📑 Trabajos Entregadas (Evidencias): [Trabajos, APE, AA Y ACD](unidad1.md)
 
 # 🗃️ Unidad 2 (No aplica)
 
 # 🗃️ Unidad 3 (No aplica)
 
+# ✅ Conclusiones Generales (No aplica)
 
-### ✅ Conclusiones
+# 📖 Referencias IEEE
 
-### 📖 Referencias
-
-### 🤖 Uso de IA Generativa
+# 🤖 Uso de IA Generativa
