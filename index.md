@@ -3,7 +3,7 @@
 ## 📚 Portafolio digital de aprendizaje
 
 ### 🗃️ Unidad 1
-[Temas] (unidad1.md)
+[Temas](unidad1.md)
 ### 🗃️ Unidad 2
 [Temas]
 ### 🗃️ Unidad 3
