@@ -1,5 +1,5 @@
 # 🗂️ Unidad 1: Algoritmos y Estructuras Secuenciales
-## [Regresar atras⬅️](index.md)
+## [Regresar al menú principal⬅️](index.md)
 
 ## 📑 Tareas Entregadas
 ### 🎓 ACD: Aprendizaje en Contacto con el Docente
