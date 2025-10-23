@@ -8,7 +8,7 @@
 ## 📚 Vista del Portafolio Digital de Aprendizaje
 
 # 🗃️ Unidad 1
-## 📑 Trabajos, APE, AA Y ACD: [IR A UNIDAD 1](unidad1.md)
+## 📑 Trabajos, APE, AA Y ACD: [Ver Unidad](unidad1.md)
 
 # 🗃️ Unidad 2 (No aplica)
 
