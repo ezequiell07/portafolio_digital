@@ -1,5 +1,4 @@
 # 🗂️ Unidad 1: Algoritmos y Estructuras Secuenciales
-## [Regresar al menú principal⬅️](index.md)
 
 ## 📑 Tareas Entregadas
 ### 🎓 ACD: Aprendizaje en Contacto con el Docente
@@ -28,3 +27,5 @@
 
 ## 💡 Reflexión Crítica de Aprendizajes
 **(Espacio para tu análisis de los contenidos de la unidad.)**
+
+## [Regresar al menú principal⬅️](index.md)
