@@ -1,4 +1,4 @@
-# 💻 Teoría de la Programación
+# 💻 Portafolio Digital de Aprendizaje – Teoría de la Programación
 
 ## 📚 Vista del Portafolio digital de aprendizaje
 
