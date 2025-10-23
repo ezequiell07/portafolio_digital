@@ -6,9 +6,9 @@
 Temas de unidad 1:
 [Ejercicios](unidad1.md)
 ### 🗃️ Unidad 2
-[Temas]
+Temas de unidad 2:
 ### 🗃️ Unidad 3
-[Temas]
+Temas de unidad 3:
 ### ✅ Conclusiones
 
 ### 📖 Referencias
