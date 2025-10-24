@@ -1,4 +1,16 @@
-# 🗂️ Unidad 1: Algoritmos y Estructuras Secuenciales
+# 📘 Unidad 1: Fundamentos de Algoritmos y Programas
+
+# 🔹 Conceptos fundamentales de Algoritmos
+## 💡 Proceso para resolver problemas a través de Computadoras y Algoritmos.
+## 📌 Algoritmos: Definición, características y clasificación.
+## 🖥️ Lenguaje de programación: Paradigma, definición, diferencia entre lenguaje de programación – programa y pseudocódigo, clasificación.
+
+# 🔹 Elementos básicos de algoritmos y programas
+## 📊 Dato e información.
+## 🔢 Tipos de datos simples.
+## 🏷️ Identificadores, variables y constantes.
+## ➡️ Instrucciones de control secuencial: asignación, lectura y escritura.
+## ➗ Expresiones: aritméticas, lógicas y relacionales; literales.
 
 ## 📑 Tareas Entregadas
 ### 🎓 ACD: Aprendizaje en Contacto con el Docente
