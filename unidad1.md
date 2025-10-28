@@ -11,7 +11,7 @@
 #### ACD 1. Control de aprendizaje de algoritmos en pseudocódigo con estructuras secuenciales
 #### 📎[Ver ACD 1](assets/ACD_1.png)
 #### ACD 2. Control de aprendizaje de Programación en C (Revisión no permitida de nota por el EVA)
-#### 📎[Ver ACD 1](assets/ACD_2.png)
+#### 📎[Ver ACD 2](assets/ACD_2.png)
 
 ## 💻 APE: Aprendizaje Práctico Experimental
 #### APE 1. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo
