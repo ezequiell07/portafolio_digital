@@ -15,15 +15,15 @@
 
 ## 💻 APE: Aprendizaje Práctico Experimental
 #### APE 1. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo
-#### 📎[Ver APE 1](assets/APE_EMERSONCHAMBA.pdf)
+#### 📎[Ver APE 1](assets/APE_1.pdf)
 
 
 ## ✍️ AA: Aprendizaje Autónomo
 #### AA 1. Herramientas digitales para pseudocódigo y diagramas de flujo
-#### 📎[Ver AA 1](assets/assets/Aprendizaje Autónomo (AA) - Deber1.pdf)
+#### 📎[Ver AA 1](assets/assets/AA_1.pdf)
 
 #### AA 2. Instalación de lenguajes de programación
-
+#### 📎[Ver AA 2](assets/assets/AA_2.pdf)
 
 
 ## 💡 Reflexión Crítica de Aprendizajes
