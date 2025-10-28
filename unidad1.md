@@ -39,7 +39,7 @@ Esta dificultad se superó rápidamente con la práctica continua del **Diagrama
 # 📑 Tareas Entregadas
 
 ## 🎓 ACD: Aprendizaje en Contacto con el Docente
-#### ACD 1. Control de aprendizaje de algoritmos en pseudocódigo con estructuras secuenciales
+#### ACD 1. Control de aprendizaje de algoritmos en pseudocódigo con estructuras secuenciales (Revisión permitida de nota por el EVA)
 - [x] 📎 [Ver Evidencia](assets/ACD_1.png) 
 #### ACD 2. Control de aprendizaje de Programación en C (Revisión no permitida de nota por el EVA)
 - [x] 📎 [Ver Evidencia](assets/ACD_2.png) 
