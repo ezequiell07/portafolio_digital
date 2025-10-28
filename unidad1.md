@@ -2,8 +2,8 @@
 
 # 📘 Unidad 1: Fundamentos de Algoritmos y Programas
 
-## 📍Contenidos de la Unidad
-*  **Algoritmos, pseudocódigo y diagramas de flujo** 
+# 📍Contenidos de la Unidad
+##  **Algoritmos, pseudocódigo y diagramas de flujo** 
 
 <img src="https://belver.clavijero.edu.mx/cursos/nme/semestre2/informatica_2/s2/contenidos/esquema18.png" width="300"/>  
 
@@ -12,25 +12,25 @@ Algoritmo: Es una secuencia finita y ordenada de instrucciones bien definidas qu
 Pseudocódigo: Es una herramienta de diseño algorítmico que utiliza una mezcla de lenguaje natural (español) y palabras clave estructuradas (como INICIO, FIN, LEER, ESCRIBIR) para describir los pasos de un algoritmo de forma independiente a cualquier lenguaje de programación.
 
 Diagrama de Flujo: Es una representación gráfica de un algoritmo. Utiliza símbolos estandarizados (como rectángulos para procesos, rombos para decisiones y flechas para el flujo) para visualizar la secuencia lógica del programa.
-* **Programación por bloques**
+## **Programación por bloques**
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZo0i1LhR4eLvFwxStv9bSmj69YEA_U8V3gWb3LaSt_RX1_Qu56pyArvpL6kIKN4Xqj5kFCtoiJsEcBL8fX1gIIMfxejbUx8ezJrh9RC2Uk49KGxf6Fg92Lm4Qc2c9_f6Ee1p0kJV5Fv8/s1600/bloques.png" width="200"/>
 
 
 ##### Es un paradigma de programación visual donde se construyen programas arrastrando y encajando bloques gráficos que representan comandos e instrucciones lógicas. Su principal objetivo es enseñar los fundamentos de la lógica de programación (secuencias, bucles, condicionales) sin la complejidad de la sintaxis textual.
 
-*  **Ejemplos de algoritmos con estructuras lineales/secuenciales**
+## **Ejemplos de algoritmos con estructuras lineales/secuenciales**
     
-    <img src="https://static.wikia.nocookie.net/fundamentos/images/7/75/Algo.png/revision/latest?cb=20130508005832&path-prefix=es" width="100"/>
+ <img src="https://static.wikia.nocookie.net/fundamentos/images/7/75/Algo.png/revision/latest?cb=20130508005832&path-prefix=es" width="100"/>
 Este diagrama de flujo representa una estructura puramente secuencial:Inicio y Fin ($\mathbf{\text{INICIO / FIN}}$): Marcan el punto de entrada y salida del algoritmo.Acciones Lineales: Las acciones (ACCIÓN 1, ACCIÓN 2, ACCIÓN 3) se realizan en el orden exacto en que están conectadas por las flechas.
 Flujo Único: Solo hay un único camino que se debe seguir, desde el inicio hasta el fin.
 
-*  **Principales dificultades en la aplicación de los contenidos.**
+##  **Principales dificultades en la aplicación de los contenidos.**
 
 El principal desafío en la Unidad 1 se presentó en la fase inicial de **abstracción lógica**. La mayor dificultad fue lograr una traducción fiel de la idea del problema a la estructura del **pseudocódigo**, especialmente al manejar **fórmulas matemáticas** y asegurar la correcta **asignación y manipulación de variables**.
 
 Al inicio, existía una resistencia a desglosar el problema en la secuencia rigurosa que exige un algoritmo, lo que se reflejaba en errores de lógica y en la aplicación incorrecta de la sintaxis del pseudocódigo.
-##### Esta dificultad se superó rápidamente con la práctica continua del **Diagrama de Flujo**, que ayudó a **visualizar el flujo secuencial** de manera más intuitiva. Una vez establecida la lógica correcta en el pseudocódigo, la implementación en **lenguaje C** se volvió un proceso mucho más fluido y mecánico, limitándose la dificultad a la adaptación de la sintaxis específica del lenguaje compilado.
+Esta dificultad se superó rápidamente con la práctica continua del **Diagrama de Flujo**, que ayudó a **visualizar el flujo secuencial** de manera más intuitiva. Una vez establecida la lógica correcta en el pseudocódigo, la implementación en **lenguaje C** se volvió un proceso mucho más fluido y mecánico, limitándose la dificultad a la adaptación de la sintaxis específica del lenguaje compilado.
 
 
 <hr>
