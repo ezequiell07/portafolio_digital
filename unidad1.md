@@ -5,7 +5,7 @@
 # Contenidos de la Unidad ⬇️
 ##  ♟️**Algoritmos, pseudocódigo y diagramas de flujo** 
 
-<img src="https://belver.clavijero.edu.mx/cursos/nme/semestre2/informatica_2/s2/contenidos/esquema18.png" width="300"/>  
+<img src="https://belver.clavijero.edu.mx/cursos/nme/semestre2/informatica_2/s2/contenidos/esquema18.png" width="255"/>  
 
 Algoritmo: Es una secuencia finita y ordenada de instrucciones bien definidas que, al ejecutarse, resuelven un problema o realizan una tarea específica. Es la lógica o la receta detrás de un programa.
 
