@@ -2,11 +2,21 @@
 
 # 📘 Unidad 1: Fundamentos de Algoritmos y Programas
 
-## Contenidos de la Unidad
+## 📍Contenidos de la Unidad
 - [x] Algoritmos, pseudocódigo y diagramas de flujo
+
+<img src="https://belver.clavijero.edu.mx/cursos/nme/semestre2/informatica_2/s2/contenidos/esquema18.png" width="300"/>  
+
 - [x] Programación por bloques
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZo0i1LhR4eLvFwxStv9bSmj69YEA_U8V3gWb3LaSt_RX1_Qu56pyArvpL6kIKN4Xqj5kFCtoiJsEcBL8fX1gIIMfxejbUx8ezJrh9RC2Uk49KGxf6Fg92Lm4Qc2c9_f6Ee1p0kJV5Fv8/s1600/bloques.png" width="200"/>
+
 - [x] Ejemplos de algoritmos con estructuras lineales/secuenciales
+    
+    <img src="https://static.wikia.nocookie.net/fundamentos/images/7/75/Algo.png/revision/latest?cb=20130508005832&path-prefix=es" width="100"/>  
 - [x] Principales dificultades en la aplicación de los contenidos.
+      
+
 
 <hr>
 
