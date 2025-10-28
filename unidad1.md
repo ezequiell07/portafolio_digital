@@ -9,7 +9,7 @@
 # 📑 Tareas Entregadas
 ## 🎓 ACD: Aprendizaje en Contacto con el Docente
 #### ACD 1. Control de aprendizaje de algoritmos en pseudocódigo con estructuras secuenciales
-[Evidencia ACD_1](https://raw.githubusercontent.com/tu_usuario/PDF/main/ACD_1.pdf)
+
 #### ACD 2. Control de aprendizaje de Programación en C
 
 
