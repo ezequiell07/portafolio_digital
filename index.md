@@ -1,4 +1,4 @@
-<img src="https://unl.edu.ec/sites/default/files/galeria/2022/02/c.jpg" alt="Logo UNL" width="600"/>
+<img src="https://inscripciones.unl.edu.ec/images/logo_unl.png" width="400"/>
 
 # 💻 Portafolio Digital de Aprendizaje – Teoría de la Programación
 
