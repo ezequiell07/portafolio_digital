@@ -6,11 +6,11 @@
 ## 🚥Ejemplos de algoritmos con estructuras lineales/secuenciales
 ## 🫡Principales dificultades en la aplicación de los contenidos.
 
-# 📑 Tareas Entregadas
+# 📑 Tareas Entregadas:
 ## 🎓 ACD: Aprendizaje en Contacto con el Docente
 #### ACD 1. Control de aprendizaje de algoritmos en pseudocódigo con estructuras secuenciales
-[Ver ACD 1](assets/ACD_1.png)
-#### ACD 2. Control de aprendizaje de Programación en C
+📎[Ver ACD 1](assets/ACD_1.png)
+#### ACD 2. Control de aprendizaje de Programación en C (Revisión no permitida de nota por el EVA)
 
 
 ## 💻 APE: Aprendizaje Práctico Experimental
