@@ -20,10 +20,10 @@
 
 ## ✍️ AA: Aprendizaje Autónomo
 #### AA 1. Herramientas digitales para pseudocódigo y diagramas de flujo
-#### 📎[Ver AA 1](assets/assets/AA_1.pdf)
+#### 📎[Ver AA 1](assets/AA_1.pdf)
 
 #### AA 2. Instalación de lenguajes de programación
-#### 📎[Ver AA 2](assets/assets/AA_2.pdf)
+#### 📎[Ver AA 2](assets/AA_2.pdf)
 
 
 ## 💡 Reflexión Crítica de Aprendizajes
