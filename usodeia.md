@@ -12,3 +12,5 @@ La IA fue utilizada principalmente para reforzar el aprendizaje y la aplicación
 #### ✅ Declaración Ética
 
 Todo el diseño algorítmico primario, la codificación en **lenguaje C**, y el **análisis reflexivo** son de autoría propia. La IA sirvió exclusivamente como un **recurso auxiliar** (consultor y validador de sintaxis), sin generar soluciones completas ni sustituir el proceso de aprendizaje y análisis requerido.
+
+## [Regresar al menú principal⬅️](index.md)
