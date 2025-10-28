@@ -22,7 +22,8 @@
 
 ## ✅ Conclusiones Generales (No aplica)
 
-## 📖 Referencias IEEE
+## 📖 Referencias IEEE:
+#### 📙 [➡️ Ver Referencias IEEE](r_ieee.md)
 
 ## 🤖 Uso de IA Generativa:
 #### 🗣️ Declaración: [➡️ Ver Uso de IA](usodeia.md)
