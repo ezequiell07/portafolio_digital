@@ -1,21 +1,10 @@
 # 📘 Unidad 1: Fundamentos de Algoritmos y Programas
-
-## 🔹Conceptos fundamentales de Algoritmos
-### 💡 Proceso para resolver problemas a través de Computadoras y Algoritmos.
-### 📌 Algoritmos: Definición, características y clasificación.
-### 🖥️ Lenguaje de programación: Paradigma, definición, diferencia entre lenguaje de programación – programa y pseudocódigo, clasificación.
-
-## 🔹Elementos básicos de algoritmos y programas
-### 📊 Dato e información.
-### 🔢 Tipos de datos simples.
-### 🏷️ Identificadores, variables y constantes.
-### ➡️ Instrucciones de control secuencial: asignación, lectura y escritura.
-### ➗ Expresiones: aritméticas, lógicas y relacionales; literales.
-
+# 📚 Contenidos de la Unidad
+## 📍Algoritmos, pseudocódigo y diagramas de flujo
 # 📑 Tareas Entregadas
 ## 🎓 ACD: Aprendizaje en Contacto con el Docente
 #### ACD 1. Control de aprendizaje de algoritmos en pseudocódigo con estructuras secuenciales
-**(Evidencia)**
+![Captura del ACD_1](assets/ACD_1.pdf)
 
 #### ACD 2. Control de aprendizaje de Programación en C
 **(Evidencia)**
@@ -35,7 +24,6 @@
 #### AA 2. Instalación de lenguajes de programación
 **(Evidencia de la instalación de C)**
 
----
 
 ## 💡 Reflexión Crítica de Aprendizajes
 **(Espacio para tu análisis de los contenidos de la unidad.)**
