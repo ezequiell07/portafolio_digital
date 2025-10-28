@@ -14,7 +14,7 @@
 # 📚 Vista del Portafolio Digital de Aprendizaje
 
 ## 🗃️ Unidad 1:
-### 📑 Trabajos: [➡️ Ver Unidad 1](unidad1.md)
+#### 📑 Trabajos: [➡️ Ver Unidad 1](unidad1.md)
 
 ## 🗃️ Unidad 2 (No aplica)
 
@@ -25,4 +25,4 @@
 ## 📖 Referencias IEEE
 
 ## 🤖 Uso de IA Generativa:
-### 🗣️ Declaración: [➡️ Ver Uso de IA](usodeia.md)
+#### 🗣️ Declaración: [➡️ Ver Uso de IA](usodeia.md)
