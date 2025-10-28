@@ -3,7 +3,7 @@
 # 💻 Portafolio Digital de Aprendizaje – Teoría de la Programación
 
 ## 📍 Universidad Nacional de Loja
-### Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
+### 🏫 Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
 
 ### 📕 Carrera: Computación - Ciclo 1
 ### 👨🏻‍🎓 Estudiante: Emerson Chamba Galarza
