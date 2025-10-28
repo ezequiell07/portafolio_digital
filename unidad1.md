@@ -3,7 +3,7 @@
 # 📘 Unidad 1: Fundamentos de Algoritmos y Programas
 
 ## 📍Contenidos de la Unidad
-- [x] **Algoritmos, pseudocódigo y diagramas de flujo**
+- [x] **Algoritmos, pseudocódigo y diagramas de flujo** 
 
 <img src="https://belver.clavijero.edu.mx/cursos/nme/semestre2/informatica_2/s2/contenidos/esquema18.png" width="300"/>  
 
