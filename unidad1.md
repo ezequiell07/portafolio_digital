@@ -1,10 +1,10 @@
 ![UNL](https://www.unl.edu.ec/sites/default/files/galeria/2025/06/DSC00493%20copia%202.jpg)
 # 📘 Unidad 1: Fundamentos de Algoritmos y Programas
-#  Contenidos de la Unidad ⬇️
-## 📍Algoritmos, pseudocódigo y diagramas de flujo
-## 🟥Programación por bloques
-## 🚥Ejemplos de algoritmos con estructuras lineales/secuenciales
-## 🫡Principales dificultades en la aplicación de los contenidos.
+## Contenidos de la Unidad
+### 📍Algoritmos, pseudocódigo y diagramas de flujo
+### 🟥Programación por bloques
+### 🚥Ejemplos de algoritmos con estructuras lineales/secuenciales
+### 🫡Principales dificultades en la aplicación de los contenidos.
 
 # 📑 Tareas Entregadas:
 ## 🎓 ACD: Aprendizaje en Contacto con el Docente
