@@ -1,7 +1,7 @@
 
 # 📖 Referencias IEEE
 
-Esta sección lista la bibliografía utilizada y consultada para la elaboración de los contenidos y la reflexión de la Unidad 1, estas Referencias IEEE son las usadas en los trabajos enviador en Unidad 1
+Estas referencias IEEE son las usadas en los trabajos enviados para la elaboración de los contenidos y la reflexión de la Unidad 1
 <hr>
 
 ### Referencia sobre PSEINT (Artículo/Trabajo)
