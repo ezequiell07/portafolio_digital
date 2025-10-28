@@ -1,10 +1,13 @@
 # 📘 Unidad 1: Fundamentos de Algoritmos y Programas
 # 📚 Contenidos de la Unidad
 ## 📍Algoritmos, pseudocódigo y diagramas de flujo
+
+
+
 # 📑 Tareas Entregadas
 ## 🎓 ACD: Aprendizaje en Contacto con el Docente
 #### ACD 1. Control de aprendizaje de algoritmos en pseudocódigo con estructuras secuenciales
-
+**(Evidencia)**
 #### ACD 2. Control de aprendizaje de Programación en C
 **(Evidencia)**
 
