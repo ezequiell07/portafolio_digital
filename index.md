@@ -20,3 +20,4 @@
 # 📖 Referencias IEEE
 
 # 🤖 Uso de IA Generativa
+### 🔑 Declaración: [➡️ Ver Uso de IA](usodeia.md)
