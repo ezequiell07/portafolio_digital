@@ -1,4 +1,4 @@
-<img src="https://www.unl.edu.ec/sites/default/files/galeria/2025/06/DSC00493%20copia%202.jpg" alt="Universidad Nacional de Loja" width="650"/>
+<img src="https://www.unl.edu.ec/sites/default/files/galeria/2025/06/DSC00493%20copia%202.jpg" alt="Universidad Nacional de Loja" width="100%" height="auto" style="display: block; margin: 0 auto; object-fit: cover; object-position: center;"/>
 
 # 📘 Unidad 1: Fundamentos de Algoritmos y Programas
 
