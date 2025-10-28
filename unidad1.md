@@ -1,29 +1,29 @@
 ![UNL](https://www.unl.edu.ec/sites/default/files/galeria/2025/06/DSC00493%20copia%202.jpg)
 # 📘 Unidad 1: Fundamentos de Algoritmos y Programas
 ## Contenidos de la Unidad
-### 📍Algoritmos, pseudocódigo y diagramas de flujo
-### 🟥Programación por bloques
-### 🚥Ejemplos de algoritmos con estructuras lineales/secuenciales
-### 🫡Principales dificultades en la aplicación de los contenidos.
+- [x] Algoritmos, pseudocódigo y diagramas de flujo
+- [x] Programación por bloques
+- [x] Ejemplos de algoritmos con estructuras lineales/secuenciales
+- [x] Principales dificultades en la aplicación de los contenidos.
 
 # 📑 Tareas Entregadas:
 ## 🎓 ACD: Aprendizaje en Contacto con el Docente
 #### ACD 1. Control de aprendizaje de algoritmos en pseudocódigo con estructuras secuenciales
-#### 📎[Ver ACD 1](assets/ACD_1.png)
+- [x] 📎[Ver ACD 1](assets/ACD_1.png) 
 #### ACD 2. Control de aprendizaje de Programación en C (Revisión no permitida de nota por el EVA)
-#### 📎[Ver ACD 2](assets/ACD_2.png)
+- [x] 📎[Ver ACD 2](assets/ACD_2.png) 
 
 ## 💻 APE: Aprendizaje Práctico Experimental
 #### APE 1. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo
-#### 📎[Ver APE 1](assets/APE_1.pdf)
+- [x] 📎[Ver APE 1](assets/APE_1.pdf)
 
 
 ## ✍️ AA: Aprendizaje Autónomo
 #### AA 1. Herramientas digitales para pseudocódigo y diagramas de flujo
-#### 📎[Ver AA 1](assets/AA_1.pdf)
+- [x] 📎[Ver AA 1](assets/AA_1.pdf)
 
 #### AA 2. Instalación de lenguajes de programación
-#### 📎[Ver AA 2](assets/AA_2.pdf)
+- [x] 📎[Ver AA 2](assets/AA_2.pdf)
 
 
 ## 💡 Reflexión Crítica de Aprendizajes
