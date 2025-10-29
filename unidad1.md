@@ -48,6 +48,9 @@ Esta dificultad se superó rápidamente con la práctica continua del **Diagrama
 #### APE 1. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo
 - [x] 📎 [Ver Evidencia](assets/APE_1.pdf)
 
+#### APE 2. Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
+- [x] 📎 [Ver Evidencia](assets/APE_2.pdf)
+
 
 ## ✍️ AA: Aprendizaje Autónomo
 #### AA 1. Herramientas digitales para pseudocódigo y diagramas de flujo
