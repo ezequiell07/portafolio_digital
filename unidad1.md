@@ -37,9 +37,11 @@ Este algoritmo hecho en Pseint tiene la función para calcular el área de un tr
 
 
 
-Estas son las pruebas de escritorio.
+
+Estas son las pruebas de escritorio para comprobar el algoritmo.
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/0701b9d8-4515-4f4c-aaf5-c65b02c2cb81" />
+
 
 
 
