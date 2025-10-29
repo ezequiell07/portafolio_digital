@@ -74,7 +74,7 @@ Finalmente, se usa **printf** para mostrar el área del triángulo obtenida.
 
 
 
-Esta imagen muestra la ejecución del código en **Visual Studio Code (Lenguaje C)**, donde los datos ingresados por el usuario son: `base = 5`, `altura = 5`, y el resultado mostrado es **12.50**, los mismos valores que fueron ejecutados en Pseint.
+Esta imagen muestra la ejecución del código en **Visual Studio Code (Lenguaje C)**, donde los datos ingresados por el usuario son: `base = 5`, `altura = 5`, y el resultado mostrado es **12.50**, los mismos valores que fueron ejecutados en la prueba de escritorio.
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/6a9fb1ff-81d1-4f95-b555-aea763f016c7" />
 
