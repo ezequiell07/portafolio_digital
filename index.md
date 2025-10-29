@@ -1,4 +1,4 @@
-<hr>
+
 
 # 📚 Vista del Portafolio Digital de Aprendizaje
 
