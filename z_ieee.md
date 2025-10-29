@@ -1,9 +1,11 @@
 <img src="https://comocitarenapa.com/wp-content/uploads/2024/10/Blog-13.jpg" width="500" height="110">
 
+---
+
 # 📖 Referencias IEEE
 
 Estas referencias IEEE son las usadas en los trabajos enviados para la elaboración de los contenidos y la reflexión de la Unidad 1
-<hr>
+
 
 ### 📍Referencia sobre PSEINT (Artículo/Trabajo)
 [1] J. Gonzales, L. Vargas, D. Perez y Y. Zavala, "PSEINT COMO HERRAMIENTA EN EL PROCESO DE ENSEÑANZA-APRENDIZAJE," 2023.
