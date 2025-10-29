@@ -1,5 +1,7 @@
 <img src="https://inscripciones.unl.edu.ec/images/logo_unl.png" width="400" height="130">
 
+---
+
 # 💻 Portafolio Digital de Aprendizaje – Teoría de la Programación
 
 ## 📍 Universidad Nacional de Loja
@@ -16,14 +18,24 @@
 ## 🗃️ Unidad 1:
 #### [➡️ Ver Unidad 1](unidad1.md)
 
+---
+
 ## 🗃️ Unidad 2 (No aplica)
+
+---
 
 ## 🗃️ Unidad 3 (No aplica)
 
+---
+
 ## ✅ Conclusiones Generales (No aplica)
+
+---
 
 ## 📖 Referencias IEEE:
 ####  [➡️ Ver Referencias IEEE](z_ieee.md)
+
+---
 
 ## 🤖 Uso de IA Generativa:
 ####  [➡️ Ver Uso de IA](usodeia.md)
