@@ -7,23 +7,23 @@
 ---
 
 ##  ♟️**Algoritmos, pseudocódigo y diagramas de flujo** 
-
-<img src="https://belver.clavijero.edu.mx/cursos/nme/semestre2/informatica_2/s2/contenidos/esquema18.png" width="300"/>  
-
 **Algoritmo:** Es una secuencia finita y ordenada de instrucciones bien definidas que, al ejecutarse, resuelven un problema o realizan una tarea específica. Es la lógica o la receta detrás de un programa.
 
 **Pseudocódigo:** Es una herramienta de diseño algorítmico que utiliza una mezcla de lenguaje natural (español) y palabras clave estructuradas (como INICIO, FIN, LEER, ESCRIBIR) para describir los pasos de un algoritmo de forma independiente a cualquier lenguaje de programación.
 
 **Diagrama de Flujo:** Es una representación gráfica de un algoritmo. Utiliza símbolos estandarizados (como rectángulos para procesos, rombos para decisiones y flechas para el flujo) para visualizar la secuencia lógica del programa.
 
+<img src="https://belver.clavijero.edu.mx/cursos/nme/semestre2/informatica_2/s2/contenidos/esquema18.png" width="300"/>  
+
+
 ---
 
 ## 🧊**Programación por bloques**
+Es un paradigma de programación visual donde se construyen programas arrastrando y encajando bloques gráficos que representan comandos e instrucciones lógicas. Su principal objetivo es enseñar los fundamentos de la lógica de programación (secuencias, bucles, condicionales) sin la complejidad de la sintaxis textual.
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZo0i1LhR4eLvFwxStv9bSmj69YEA_U8V3gWb3LaSt_RX1_Qu56pyArvpL6kIKN4Xqj5kFCtoiJsEcBL8fX1gIIMfxejbUx8ezJrh9RC2Uk49KGxf6Fg92Lm4Qc2c9_f6Ee1p0kJV5Fv8/s1600/bloques.png" width="300" height="150"/>
 
 
-Es un paradigma de programación visual donde se construyen programas arrastrando y encajando bloques gráficos que representan comandos e instrucciones lógicas. Su principal objetivo es enseñar los fundamentos de la lógica de programación (secuencias, bucles, condicionales) sin la complejidad de la sintaxis textual.
 
 ---
 
