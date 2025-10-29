@@ -17,7 +17,7 @@ Diagrama de Flujo: Es una representación gráfica de un algoritmo. Utiliza sím
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZo0i1LhR4eLvFwxStv9bSmj69YEA_U8V3gWb3LaSt_RX1_Qu56pyArvpL6kIKN4Xqj5kFCtoiJsEcBL8fX1gIIMfxejbUx8ezJrh9RC2Uk49KGxf6Fg92Lm4Qc2c9_f6Ee1p0kJV5Fv8/s1600/bloques.png" width="300" height="150"/>
 
 
-##### Es un paradigma de programación visual donde se construyen programas arrastrando y encajando bloques gráficos que representan comandos e instrucciones lógicas. Su principal objetivo es enseñar los fundamentos de la lógica de programación (secuencias, bucles, condicionales) sin la complejidad de la sintaxis textual.
+Es un paradigma de programación visual donde se construyen programas arrastrando y encajando bloques gráficos que representan comandos e instrucciones lógicas. Su principal objetivo es enseñar los fundamentos de la lógica de programación (secuencias, bucles, condicionales) sin la complejidad de la sintaxis textual.
 
 ## 📊**Ejemplos de algoritmos con estructuras lineales/secuenciales**
     
