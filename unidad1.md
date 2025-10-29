@@ -23,7 +23,7 @@ Es un paradigma de programación visual donde se construyen programas arrastrand
     
  <img src="https://static.wikia.nocookie.net/fundamentos/images/7/75/Algo.png/revision/latest?cb=20130508005832&path-prefix=es" width="200" height="200"/>
 
-Este diagrama de flujo representa una estructura puramente secuencial: Inicio y Fin ($\mathbf{\text{INICIO / FIN}}$): Marcan el punto de entrada y salida del algoritmo.Acciones Lineales: Las acciones (Acción 1, Acción  2, Acción  3) se realizan en el orden exacto en que están conectadas por las flechas.
+Este diagrama de flujo representa una estructura puramente secuencial: Inicio y Fin (INICIO / FIN): Marcan el punto de entrada y salida del algoritmo.Acciones Lineales: Las acciones (Acción 1, Acción  2, Acción  3) se realizan en el orden exacto en que están conectadas por las flechas.
 Flujo Único: Solo hay un único camino que se debe seguir, desde el inicio hasta el fin.
 
 ##  🚨**Principales dificultades en la aplicación de los contenidos.**
