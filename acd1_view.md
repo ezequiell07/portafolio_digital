@@ -5,7 +5,7 @@
 ### Ver Evidencia (PDF)
 
 > Haz clic en el siguiente enlace para ver o descargar el documento completo:
-> [📥 Descargar/Ver ACD 1 (PDF)](assets/APE_1.pdf)
+> [📥 Descargar/Ver APE 1 (PDF)](assets/APE_1.pdf)
 
 ---
 
