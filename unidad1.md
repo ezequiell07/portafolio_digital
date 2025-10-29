@@ -19,12 +19,38 @@ Diagrama de Flujo: Es una representación gráfica de un algoritmo. Utiliza sím
 
 Es un paradigma de programación visual donde se construyen programas arrastrando y encajando bloques gráficos que representan comandos e instrucciones lógicas. Su principal objetivo es enseñar los fundamentos de la lógica de programación (secuencias, bucles, condicionales) sin la complejidad de la sintaxis textual.
 
+
+
 ## 📊**Ejemplos de algoritmos con estructuras lineales/secuenciales**
     
- <img src="https://static.wikia.nocookie.net/fundamentos/images/7/75/Algo.png/revision/latest?cb=20130508005832&path-prefix=es" width="200" height="200"/>
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/98ba485b-dba4-4744-b9cc-0785a5646f23" />
 
-Este diagrama de flujo representa una estructura puramente secuencial: Inicio y Fin (INICIO / FIN): Marcan el punto de entrada y salida del algoritmo.Acciones Lineales: Las acciones (Acción 1, Acción  2, Acción  3) se realizan en el orden exacto en que están conectadas por las flechas.
-Flujo Único: Solo hay un único camino que se debe seguir, desde el inicio hasta el fin.
+Este algoritmo hecho en Pseint tiene la función para calcular el area de un triangulo, pidiendo al usuario ingresar lo que es "base" y "altura" para después con la formula de (base*altura)/2 donde se hace el proceso y sale el resultado final. 
+
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/b5d33eda-e808-429a-8db9-98a76d480a21" />
+
+En esta imagen se la ejecución del algoritmo en Pseint, donde el usuario ingresa sus valores, base = 5, altura = 5 y el resultado es 12.5
+
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/16c5e565-d9a5-4238-a74c-8380697159fb" />
+
+Esta imagen muestra el algoritmo en diagrama de flujo.
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/0701b9d8-4515-4f4c-aaf5-c65b02c2cb81" />
+
+Estas son las pruebas de escritorio
+
+# Codificación en C
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/ca86b9f7-7a77-4e74-bad8-9b9f58000317" />
+
+Esta imagen muestra la codificación del Pseudocódigo a Lenguaje de Programación.
+
+Usamos **float** para definir las variables: base, altura y resultado, después con **printf** para que el usuario ingrese los datos y **scanf** donde %f (como float) y &base (nombre de la variable), el mismo proceso para ingresar la altura y hacemos el proceso, donde usamos la formula **resultado = base*altura/2** (la base ingresada de multiplica por la altura ingresada y esta se divide por 2) dando como resultado un **printf** para mostrar el area del triángulo.
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/6a9fb1ff-81d1-4f95-b555-aea763f016c7" />
+
+Esta imagen muestra la ejecución del código en Visual Studio Code (Lenguaje C) donde los datos ingresados por el usuario son: base = 5, altura = 5 y el resultado mostrado es 12.50 (mismos datos ejecutados en Pseint) 
 
 ##  🚨**Principales dificultades en la aplicación de los contenidos.**
 
