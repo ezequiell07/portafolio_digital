@@ -1,6 +1,6 @@
 <img src="https://inscripciones.unl.edu.ec/images/logo_unl.png" width="400" height="130">
 
-# 📘 Unidad 1: Fundamentos de Algoritmos y Programas
+# Unidad 1: Fundamentos de Algoritmos y Programas
 
 # Contenidos de la Unidad ⬇️
 ##  ♟️**Algoritmos, pseudocódigo y diagramas de flujo** 
