@@ -1,5 +1,7 @@
 <img src="https://www.integritas.mx/web/image/35542-a1bda254/robots-con-inteligencia-artificial.png" width="400" height="150">
 
+---
+
 # 🤖 Uso de IA Generativa
 
 De acuerdo con el objetivo de la asignatura, se emplearon herramientas de Inteligencia Artificial Generativa (IA), específicamente **Gemini de Google**, como recursos de apoyo durante el desarrollo de la Unidad 1 del Portafolio.
