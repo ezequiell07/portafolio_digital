@@ -16,6 +16,7 @@
 
 **Diagrama de Flujo:** Es una representación gráfica de un algoritmo. Utiliza símbolos estandarizados (como rectángulos para procesos, rombos para decisiones y flechas para el flujo) para visualizar la secuencia lógica del programa.
 
+---
 
 ## 🧊**Programación por bloques**
 
@@ -24,7 +25,7 @@
 
 Es un paradigma de programación visual donde se construyen programas arrastrando y encajando bloques gráficos que representan comandos e instrucciones lógicas. Su principal objetivo es enseñar los fundamentos de la lógica de programación (secuencias, bucles, condicionales) sin la complejidad de la sintaxis textual.
 
-
+---
 
 # 📊 **Ejemplos de algoritmos con estructuras lineales/secuenciales**
 
@@ -34,24 +35,25 @@ Este algoritmo hecho en Pseint tiene la función para calcular el área de un tr
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/98ba485b-dba4-4744-b9cc-0785a5646f23" />
 
----
+
 
 Estas son las pruebas de escritorio.
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/0701b9d8-4515-4f4c-aaf5-c65b02c2cb81" />
 
----
+
 
 En esta imagen se muestra la ejecución del algoritmo en Pseint, donde el usuario ingresa sus valores: `base = 5`, `altura = 5`, y el resultado es `12.5`, después de comprobarse con las pruebas de escritorio.
 
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/b5d33eda-e808-429a-8db9-98a76d480a21" />
 
----
+
 
 Esta imagen muestra el algoritmo en diagrama de flujo.
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/16c5e565-d9a5-4238-a74c-8380697159fb" />
 
+---
 
 ## 💻 **Codificación en C**
 
@@ -68,7 +70,7 @@ Finalmente, se usa **printf** para mostrar el área del triángulo obtenida.
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/ca86b9f7-7a77-4e74-bad8-9b9f58000317" />
 
----
+
 
 Esta imagen muestra la ejecución del código en **Visual Studio Code (Lenguaje C)**, donde los datos ingresados por el usuario son: `base = 5`, `altura = 5`, y el resultado mostrado es **12.50**, los mismos valores que fueron ejecutados en Pseint.
 
