@@ -46,7 +46,7 @@ Esta dificultad se superó rápidamente con la práctica continua del **Diagrama
 
 ## 💻 APE: Aprendizaje Práctico Experimental
 #### APE 1. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo
-- [x] 📎 [Ver Evidencia](assets/APE_1.pdf)
+- [x] 📎 [Ver Evidencia](assets/APE_1_view.md)
 
 #### APE 2. Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
 - [x] 📎 [Ver Evidencia](assets/APE_2.pdf)
