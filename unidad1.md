@@ -3,15 +3,20 @@
 # Unidad 1: Fundamentos de Algoritmos y Programas
 
 # Contenidos de la Unidad ⬇️
+
+---
+
 ##  ♟️**Algoritmos, pseudocódigo y diagramas de flujo** 
 
 <img src="https://belver.clavijero.edu.mx/cursos/nme/semestre2/informatica_2/s2/contenidos/esquema18.png" width="300"/>  
 
-Algoritmo: Es una secuencia finita y ordenada de instrucciones bien definidas que, al ejecutarse, resuelven un problema o realizan una tarea específica. Es la lógica o la receta detrás de un programa.
+**Algoritmo:** Es una secuencia finita y ordenada de instrucciones bien definidas que, al ejecutarse, resuelven un problema o realizan una tarea específica. Es la lógica o la receta detrás de un programa.
 
-Pseudocódigo: Es una herramienta de diseño algorítmico que utiliza una mezcla de lenguaje natural (español) y palabras clave estructuradas (como INICIO, FIN, LEER, ESCRIBIR) para describir los pasos de un algoritmo de forma independiente a cualquier lenguaje de programación.
+**Pseudocódigo:** Es una herramienta de diseño algorítmico que utiliza una mezcla de lenguaje natural (español) y palabras clave estructuradas (como INICIO, FIN, LEER, ESCRIBIR) para describir los pasos de un algoritmo de forma independiente a cualquier lenguaje de programación.
 
-Diagrama de Flujo: Es una representación gráfica de un algoritmo. Utiliza símbolos estandarizados (como rectángulos para procesos, rombos para decisiones y flechas para el flujo) para visualizar la secuencia lógica del programa.
+**Diagrama de Flujo:** Es una representación gráfica de un algoritmo. Utiliza símbolos estandarizados (como rectángulos para procesos, rombos para decisiones y flechas para el flujo) para visualizar la secuencia lógica del programa.
+
+
 ## 🧊**Programación por bloques**
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZo0i1LhR4eLvFwxStv9bSmj69YEA_U8V3gWb3LaSt_RX1_Qu56pyArvpL6kIKN4Xqj5kFCtoiJsEcBL8fX1gIIMfxejbUx8ezJrh9RC2Uk49KGxf6Fg92Lm4Qc2c9_f6Ee1p0kJV5Fv8/s1600/bloques.png" width="300" height="150"/>
@@ -21,36 +26,55 @@ Es un paradigma de programación visual donde se construyen programas arrastrand
 
 
 
-## 📊**Ejemplos de algoritmos con estructuras lineales/secuenciales**
-    
+# 📊 **Ejemplos de algoritmos con estructuras lineales/secuenciales**
+
+## Algoritmo en Pseint
+
+Este algoritmo hecho en Pseint tiene la función para calcular el área de un triángulo, pidiendo al usuario ingresar lo que es “base” y “altura”, para después aplicar la fórmula `(base * altura) / 2`, donde se realiza el proceso y se obtiene el resultado final.
+
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/98ba485b-dba4-4744-b9cc-0785a5646f23" />
 
-Este algoritmo hecho en Pseint tiene la función para calcular el area de un triangulo, pidiendo al usuario ingresar lo que es "base" y "altura" para después con la formula de (base*altura)/2 donde se hace el proceso y sale el resultado final. 
+---
 
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/b5d33eda-e808-429a-8db9-98a76d480a21" />
-
-En esta imagen se la ejecución del algoritmo en Pseint, donde el usuario ingresa sus valores, base = 5, altura = 5 y el resultado es 12.5
-
-
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/16c5e565-d9a5-4238-a74c-8380697159fb" />
-
-Esta imagen muestra el algoritmo en diagrama de flujo.
+Estas son las pruebas de escritorio.
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/0701b9d8-4515-4f4c-aaf5-c65b02c2cb81" />
 
-Estas son las pruebas de escritorio
+---
 
-# Codificación en C
+En esta imagen se muestra la ejecución del algoritmo en Pseint, donde el usuario ingresa sus valores: `base = 5`, `altura = 5`, y el resultado es `12.5`, después de comprobarse con las pruebas de escritorio.
+
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/b5d33eda-e808-429a-8db9-98a76d480a21" />
+
+---
+
+Esta imagen muestra el algoritmo en diagrama de flujo.
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/16c5e565-d9a5-4238-a74c-8380697159fb" />
+
+
+## 💻 **Codificación en C**
+
+Esta imagen muestra la codificación del pseudocódigo al lenguaje de programación C.  
+Se utiliza **float** para definir las variables: `base`, `altura` y `resultado`.  
+Luego, mediante **printf**, se solicita al usuario que ingrese los datos, y con **scanf** se leen esos valores donde `%f` indica que son de tipo *float* y `&base` representa la dirección de la variable.  
+El mismo proceso se aplica para ingresar la altura.  
+Posteriormente, se realiza el cálculo aplicando la fórmula:  
+
+**resultado = base * altura / 2**  
+
+(es decir, la base ingresada se multiplica por la altura ingresada y el resultado se divide entre 2).  
+Finalmente, se usa **printf** para mostrar el área del triángulo obtenida.
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/ca86b9f7-7a77-4e74-bad8-9b9f58000317" />
 
-Esta imagen muestra la codificación del Pseudocódigo a Lenguaje de Programación.
+---
 
-Usamos **float** para definir las variables: base, altura y resultado, después con **printf** para que el usuario ingrese los datos y **scanf** donde %f (como float) y &base (nombre de la variable), el mismo proceso para ingresar la altura y hacemos el proceso, donde usamos la formula **resultado = base*altura/2** (la base ingresada de multiplica por la altura ingresada y esta se divide por 2) dando como resultado un **printf** para mostrar el area del triángulo.
+Esta imagen muestra la ejecución del código en **Visual Studio Code (Lenguaje C)**, donde los datos ingresados por el usuario son: `base = 5`, `altura = 5`, y el resultado mostrado es **12.50**, los mismos valores que fueron ejecutados en Pseint.
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/6a9fb1ff-81d1-4f95-b555-aea763f016c7" />
 
-Esta imagen muestra la ejecución del código en Visual Studio Code (Lenguaje C) donde los datos ingresados por el usuario son: base = 5, altura = 5 y el resultado mostrado es 12.50 (mismos datos ejecutados en Pseint) 
+---
 
 ##  🚨**Principales dificultades en la aplicación de los contenidos.**
 
