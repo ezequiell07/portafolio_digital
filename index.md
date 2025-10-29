@@ -26,4 +26,4 @@
 ####  [➡️ Ver Referencias IEEE](z_ieee.md)
 
 ## 🤖 Uso de IA Generativa:
-####  [➡️ Ver Uso de IA](z_iee.md)
+####  [➡️ Ver Uso de IA](usodeia.md)
