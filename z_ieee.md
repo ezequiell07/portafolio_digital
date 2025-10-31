@@ -7,7 +7,7 @@
 Estas referencias IEEE son las usadas en los trabajos enviados para la elaboración de los contenidos y la reflexión de la Unidad 1
 
 
-## 📍Referencia sobre PSEINT (Artículo/Trabajo)
+## 📍Referencia sobre PSEINT [Referencia](assets/AA_1.pdf)
 [1] J. Gonzales, L. Vargas, D. Perez y Y. Zavala, "PSEINT COMO HERRAMIENTA EN EL PROCESO DE ENSEÑANZA-APRENDIZAJE," 2023.
 
 ## 📍Referencia sobre Fundamentos de Programación (Libro/Trabajo)
