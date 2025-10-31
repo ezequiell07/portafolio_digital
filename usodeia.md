@@ -15,7 +15,7 @@ La IA fue utilizada con el propósito de **optimizar la presentación y usabilid
 Las áreas específicas donde la IA proporcionó soporte son:
 
 * **Diseño de Estructura y Formato:** Asistencia para definir la **estructura de archivos (`index.md`, `unidad1.md`, `assets/`)** y la jerarquía de los encabezados.
-* **Mejora de la Usabilidad (UX):** Sugerencias para el uso de **iconografía (emojis)** para clasificar secciones (ej., 🧠, 💻, 💡) y mejorar la navegación visual.
+* **Mejora de la Usabilidad:** Sugerencias para el uso de **iconografía (emojis)** para clasificar secciones (ej., 🧠, 💻, 💡) y mejorar la navegación visual.
 * **Soporte de Sintaxis Avanzada (Markdown):** Explicación y aplicación de funcionalidades específicas de Markdown para la presentación profesional:
     * **Creación de Listas de Tareas:** Uso de `- [x]` y `- [ ]`.
     * **Control Visual:** Uso correcto de `---` y `<hr>` para crear separadores.
