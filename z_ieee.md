@@ -4,7 +4,7 @@
 
 # 📖 Referencias IEEE
 
-Estas referencias IEEE son las usadas en los trabajos enviados para la elaboración de los contenidos y la reflexión de la Unidad 1
+Estas referencias IEEE son las usadas en los trabajos enviados para la elaboración de los contenidos y la reflexión de la Unidad 1.
 
 
 ## 📍Referencia sobre PSEINT
