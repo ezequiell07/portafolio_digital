@@ -21,7 +21,7 @@ Las áreas específicas donde la IA proporcionó soporte son:
     * **Control Visual:** Uso correcto de `---` y `<hr>` para crear separadores.
     * **Control de Tamaño:** Uso de la sintaxis **`#`** (para encabezados grandes) y **`#####`** (para texto muy pequeño), además de la sintaxis **HTML `width` y `height`** para controlar el tamaño de las imágenes.
     * **Tipografía:** Aplicación de **Negritas (`**texto**`)** para enfatizar conceptos clave.
-* **Refuerzo de Contenido:** Se consultó a la IA para obtener **definiciones cortas y concisas** de conceptos fundamentales (Algoritmo, Pseudocódigo, Diagramas de Flujo) para el bloque de contenidos.
+
 
 ---
 
