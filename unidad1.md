@@ -7,21 +7,33 @@
 ---
 
 ##  ♟️**Algoritmos, pseudocódigo y diagramas de flujo** 
-**Algoritmo:** Es una secuencia finita y ordenada de instrucciones bien definidas que, al ejecutarse, resuelven un problema o realizan una tarea específica. Es la lógica o la receta detrás de un programa.
+**Algoritmo:** Es una secuencia finita y ordenada de instrucciones bien definidas que, al ejecutarse, resuelven un problema o realizan una tarea específica. Es la lógica o la receta detrás de un programa. **Ejemplo:**
 
-**Pseudocódigo:** Es una herramienta de diseño algorítmico que utiliza una mezcla de lenguaje natural (español) y palabras clave estructuradas (como INICIO, FIN, LEER, ESCRIBIR) para describir los pasos de un algoritmo de forma independiente a cualquier lenguaje de programación.
+<img width="310" height="240" alt="image" src="https://github.com/user-attachments/assets/ba32fe4d-22e2-44df-bfe7-9d7623755f69" />
 
-**Diagrama de Flujo:** Es una representación gráfica de un algoritmo. Utiliza símbolos estandarizados (como rectángulos para procesos, rombos para decisiones y flechas para el flujo) para visualizar la secuencia lógica del programa.
 
-<img src="https://belver.clavijero.edu.mx/cursos/nme/semestre2/informatica_2/s2/contenidos/esquema18.png" width="300"/>  
+**Pseudocódigo:** Es una herramienta de diseño algorítmico que utiliza una mezcla de lenguaje natural (español) y palabras clave estructuradas (como Inicio/Fin y Leer/Escribir) para describir los pasos de un algoritmo de forma independiente a cualquier lenguaje de programación. **Ejemplo:**
+
+<img width="530" height="420" alt="image" src="https://github.com/user-attachments/assets/095555c4-bb41-4b73-a493-20c1c89ed24b" />
+
+
+**Diagrama de Flujo:** Es una representación gráfica de un algoritmo. Utiliza símbolos estandarizados (como rectángulos para procesos, rombos para decisiones y flechas para el flujo) para visualizar la secuencia lógica del programa. **Ejemplo:**
+
+<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/c7d3d2f7-5301-4afe-a329-4f49f9c08a2b" />
+
 
 
 ---
 
 ## 🧊**Programación por bloques**
-Es un paradigma de programación visual donde se construyen programas arrastrando y encajando bloques gráficos que representan comandos e instrucciones lógicas. Su principal objetivo es enseñar los fundamentos de la lógica de programación (secuencias, bucles, condicionales) sin la complejidad de la sintaxis textual.
+Es un paradigma de programación visual donde se construyen programas arrastrando y encajando bloques gráficos que representan comandos e instrucciones lógicas. Su principal objetivo es enseñar los fundamentos de la lógica de programación (secuencias, bucles, condicionales) sin la complejidad de la sintaxis textual. 
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZo0i1LhR4eLvFwxStv9bSmj69YEA_U8V3gWb3LaSt_RX1_Qu56pyArvpL6kIKN4Xqj5kFCtoiJsEcBL8fX1gIIMfxejbUx8ezJrh9RC2Uk49KGxf6Fg92Lm4Qc2c9_f6Ee1p0kJV5Fv8/s1600/bloques.png" width="300" height="150"/>
+**Ejemplo:** Este es un ejercicio de programación por bloques (tipo Blockly) donde se utiliza una interfaz visual de arrastrar y soltar para crear un algoritmo. El objetivo es navegar una ruta desde un punto de inicio a un punto final en un mapa, utilizando bloques de instrucciones de movimiento básicas como avanzar, girar a la izquierda y girar a la derecha, que deben ser secuenciadas correctamente (apiladas) para completar el recorrido.
+
+<img width="247" height="133" alt="image" src="https://github.com/user-attachments/assets/7d0479b8-98c6-46df-ad46-47363e19b628" />
+  <img width="310" height="350" alt="image" src="https://github.com/user-attachments/assets/aecffc1a-8f09-4202-916e-1abbdffaf000" />
+
+
 
 
 
@@ -82,10 +94,9 @@ Esta imagen muestra la ejecución del código en **Visual Studio Code (Lenguaje 
 
 ##  🚨**Principales dificultades en la aplicación de los contenidos.**
 
-El principal desafío en la Unidad 1 se presentó en la fase inicial de **abstracción lógica**. La mayor dificultad fue lograr una traducción fiel de la idea del problema a la estructura del **pseudocódigo**, especialmente al manejar **fórmulas matemáticas** y asegurar la correcta **asignación y manipulación de variables**.
+Las principales dificultades que tuve en esta Unidad 1 fue trasladar el lenguaje natural a lenguaje de programación, después de eso logre entender correctamente la lógica para pasar de `Algoritmo` => `Pseudocódigo` => `Lenguaje de Programación`. 
 
-Al inicio, existía una resistencia a desglosar el problema en la secuencia rigurosa que exige un algoritmo, lo que se reflejaba en errores de lógica y en la aplicación incorrecta de la sintaxis del pseudocódigo.
-Esta dificultad se superó rápidamente con la práctica continua del **Diagrama de Flujo**, que ayudó a **visualizar el flujo secuencial** de manera más intuitiva. Una vez establecida la lógica correcta en el pseudocódigo, la implementación en **lenguaje C** se volvió un proceso mucho más fluido y mecánico, limitándose la dificultad a la adaptación de la sintaxis específica del lenguaje compilado.
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/8d80dd32-813f-4f64-bd26-345cabeacfb3" />
 
 
 <hr>
