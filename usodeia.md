@@ -2,19 +2,31 @@
 
 ---
 
-# 🤖 Uso de IA Generativa
+# 🤖 Declaración de Uso de IA Generativa
 
-De acuerdo con el objetivo de la asignatura, se emplearon herramientas de Inteligencia Artificial Generativa (IA), específicamente **Gemini de Google**, como recursos de apoyo durante el desarrollo de la Unidad 1 del Portafolio.
+De acuerdo con el objetivo de la asignatura, se empleó Inteligencia Artificial Generativa (IA), específicamente **Gemini de Google** y **ChatGPT**, como recurso de apoyo y consultoría durante el desarrollo y diseño de la Unidad 1 del Portafolio Digital de Aprendizaje.
 
-#### 🧠 Rol como Tutor de Acompañamiento
+---
 
-La IA fue utilizada principalmente para reforzar el aprendizaje y la aplicación técnica:
+### 👤 Propósito y Funcionalidad del Uso de la IA
 
-* **Consolidación Teórica:** Se consultó para obtener explicaciones alternativas y ejemplos sobre los temas centrales de la unidad (**Algoritmos, Pseudocódigo y Diagramas de Flujo**), ayudando a reforzar la comprensión teórica.
-* **Verificación Lógica y Sintaxis:** Se empleó para validar la lógica de los algoritmos y para solucionar dudas sobre la **sintaxis de C** y la estructura de **Markdown/GitHub**, asegurando un código y documentación correctos.
+La IA fue utilizada con el propósito de **optimizar la presentación y usabilidad del portafolio**, sirviendo como un **tutor técnico de formato y diseño**, sin intervenir en la resolución de los problemas algorítmicos.
 
-#### ✅ Declaración Ética
+Las áreas específicas donde la IA proporcionó soporte son:
 
-Todo el diseño algorítmico primario, la codificación en **lenguaje C**, y el **análisis reflexivo** son de autoría propia. La IA sirvió exclusivamente como un **recurso auxiliar** (consultor y validador de sintaxis), sin generar soluciones completas ni sustituir el proceso de aprendizaje y análisis requerido.
+* **Diseño de Estructura y Formato:** Asistencia para definir la **estructura de archivos (`index.md`, `unidad1.md`, `assets/`)** y la jerarquía de los encabezados.
+* **Mejora de la Usabilidad (UX):** Sugerencias para el uso de **iconografía (emojis)** para clasificar secciones (ej., 🧠, 💻, 💡) y mejorar la navegación visual.
+* **Soporte de Sintaxis Avanzada (Markdown):** Explicación y aplicación de funcionalidades específicas de Markdown para la presentación profesional:
+    * **Creación de Listas de Tareas:** Uso de `- [x]` y `- [ ]`.
+    * **Control Visual:** Uso correcto de `---` y `<hr>` para crear separadores.
+    * **Control de Tamaño:** Uso de la sintaxis **`#`** (para encabezados grandes) y **`#####`** (para texto muy pequeño), además de la sintaxis **HTML `width` y `height`** para controlar el tamaño de las imágenes.
+    * **Tipografía:** Aplicación de **Negritas (`**texto**`)** para enfatizar conceptos clave.
+* **Refuerzo de Contenido:** Se consultó a la IA para obtener **definiciones cortas y concisas** de conceptos fundamentales (Algoritmo, Pseudocódigo, Diagramas de Flujo) para el bloque de contenidos.
+
+---
+
+### ✅ Declaración Ética y Autonomía
+
+Todo el diseño algorítmico primario, la codificación en lenguaje C, y el análisis reflexivo son de autoría propia. La IA sirvió exclusivamente como un recurso auxiliar (consultor y validador de sintaxis), sin generar soluciones completas ni sustituir el proceso de aprendizaje y análisis requerido.
 
 ## [Regresar al menú principal⬅️](index.md)
