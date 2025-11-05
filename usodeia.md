@@ -4,6 +4,7 @@
 
 # 🤖 Declaración de Uso de IA Generativa
 
+   
 De acuerdo con el objetivo de la asignatura, se empleó Inteligencia Artificial Generativa (IA), específicamente **Gemini de Google**, como recurso de apoyo y consultoría durante el desarrollo y diseño de la Unidad 1 del Portafolio Digital de Aprendizaje.
 
 ---
@@ -29,4 +30,7 @@ Las áreas específicas donde la IA proporcionó soporte son:
 
 Todo el diseño algorítmico primario, la codificación en lenguaje C, y el análisis reflexivo son de autoría propia. La IA sirvió exclusivamente como un recurso auxiliar (consultor y validador de sintaxis), sin generar soluciones completas ni sustituir el proceso de aprendizaje y análisis requerido.
 
-## [Regresar al menú principal⬅️](index.md)
+<div align="center">
+  
+## [⬅️ Regresar al menú principal](index.md)
+</div>
