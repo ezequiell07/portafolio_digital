@@ -4,7 +4,7 @@
 
 # 🤖 Declaración de Uso de IA Generativa
 
-De acuerdo con el objetivo de la asignatura, se empleó Inteligencia Artificial Generativa (IA), específicamente **Gemini de Google** y **ChatGPT**, como recurso de apoyo y consultoría durante el desarrollo y diseño de la Unidad 1 del Portafolio Digital de Aprendizaje.
+De acuerdo con el objetivo de la asignatura, se empleó Inteligencia Artificial Generativa (IA), específicamente **Gemini de Google**, como recurso de apoyo y consultoría durante el desarrollo y diseño de la Unidad 1 del Portafolio Digital de Aprendizaje.
 
 ---
 
