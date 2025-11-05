@@ -70,6 +70,7 @@ Es un paradigma de programación visual donde se construyen programas arrastrand
 </div>
 
 <p style="text-align: justify;">
+
 Este algoritmo hecho en Pseint tiene la función para calcular el área de un triángulo, pidiendo al usuario ingresar lo que es “base” y “altura”, para después aplicar la fórmula `(base * altura) / 2`, donde se realiza el proceso y se obtiene el resultado final.
 </p>
 
