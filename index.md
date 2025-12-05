@@ -20,7 +20,8 @@
 
 ---
 
-## 🗃️ Unidad 2 (No aplica)
+## 🗃️ Unidad 2
+#### [[➡️ Ver Unidad 2](unidad2.md)
 
 ---
 
