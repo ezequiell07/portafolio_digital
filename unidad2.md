@@ -154,7 +154,45 @@ En este caso utilizamos el ciclo `for`, el cual repite sus instrucciones mientra
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/41cc4ba8-431b-4725-a820-f395e487d8c3" />
 </p>
 
+---
 
+# ♨️ Ejercicio Combinado 
+
+## Descripción del problema
+El programa solicita al usuario ingresar la cantidad de estudiantes y luego, mediante un ciclo repetitivo for, permite ingresar la nota de cada uno de ellos.
+Por cada nota ingresada:
+
+* Si la nota es mayor a 7, el estudiante se considera Aprobado.
+
+* Si la nota es menor o igual a 7, se considera Reprobado.
+
+Cada nota es almacenada en un arreglo para poder mostrarlas nuevamente al final junto con su respectivo estado (Aprobado/Reprobado).
+
+Este ejercicio combina:
+
+* Estructura repetitiva `for`
+
+* Estructura condicional `if…else`
+
+## Diagrama de flujo simplificado
+El diagrama de flujo muestra el proceso completo para gestionar las notas de varios estudiantes utilizando un ciclo repetitivo y una estructura condicional.
+Primero, el programa solicita la cantidad de estudiantes y crea un arreglo para almacenar sus notas. Luego, por medio de un ciclo, se pide la nota de cada estudiante y se evalúa si es mayor a 7 para determinar si está aprobado o reprobado.
+Después de registrar todas las notas, un segundo ciclo recorre nuevamente el arreglo para mostrar las notas finales junto con su respectivo estado. De esta forma, el diagrama refleja la combinación de decisiones y repeticiones dentro del algoritmo.
+
+<p align="center">
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/85a2656d-2a7c-490c-93e0-668baed82706" />
+</p>
+
+## Código en Java
+Este programa combina una estructura repetitiva `for` con una condición `if… else` para evaluar las notas de varios estudiantes.
+Primero se pide al usuario la cantidad total de estudiantes y se crea un arreglo para almacenar todas las notas.
+Dentro del primer ciclo for, se solicita la nota de cada estudiante y se evalúa si es mayor a 7 para mostrar si está aprobado o reprobado.
+Una vez ingresadas todas las notas, un segundo ciclo for recorre nuevamente el arreglo y muestra cada nota junto con su estado final, utilizando una expresión condicional para simplificar la impresión de "Aprobado" o "Reprobado".
+Finalmente, el programa cierra el escáner y termina el proceso.
+
+<p align="center">
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/3d8f17fd-8d28-4b62-833f-954dccfac6d9" />
+</p>
 
 
 
