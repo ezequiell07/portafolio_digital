@@ -1,7 +1,3 @@
-<img src="https://www.integritas.mx/web/image/35542-a1bda254/robots-con-inteligencia-artificial.png" width="400" height="150">
-
----
-
 # 🤖 Declaración de Uso de IA Generativa
 
    
