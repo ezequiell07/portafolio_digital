@@ -312,7 +312,38 @@ repeticiones (while, do…while, for) son la base para resolver problemas más c
 <p style="text-align: justify;">
 El uso de condicionales nos enseñó a guiar la ejecución del programa según valores ingresados por el usuario, mientras que los bucles nos mostraron cómo automatizar tareas repetitivas sin necesidad de escribir líneas de código innecesarias. La combinación de ambas estructuras fue un punto clave, ya que permitió construir programas más completos, como el que evalúa las notas de varios estudiantes, integrando almacenamiento, condiciones y ciclos.
 </p>
-<div align="center">
+
+
+
+# 📑 Tareas Entregadas
+
+## 🎓 ACD: Aprendizaje en Contacto con el Docente
+#### ACD 1. Control de aprendizaje de programas utilizando estructuras condicionales. (Revisión permitida de nota por el EVA)
+- [x] 📎 [Ver Evidencia](assets/ACD_1_UNIDAD2.png)
+#### ACD 2.
+- [x] 📎 [Ver Evidencia]
+
+<hr>
+
+## 💻 APE: Aprendizaje Práctico Experimental
+#### APE 1. Aplicación de estructuras condicionales en la resolución de problemas
+- [x] 📎 [Ver Evidencia](assets/APE1_UNIDAD2_PROGRAMACION.pdf)
+
+#### APE 2. Aplicación de estructuras repetitivas en la resolución de problemas
+- [x] 📎 [Ver Evidencia](assets/APE2_UNIDAD2.pdf)
+
+<hr>
+
+## ✍️ AA: Aprendizaje Autónomo
+#### AA 1. Diferencias entre los tipos de estructuras condicionales
+- [x] 📎 [Ver Evidencia](assets/AA_U2_EmersonChamba.pdf)
+
+#### AA 2. Cuadro comparativo entre las estructuras repetitivas
+- [x] 📎 [Ver Evidencia](assets/AA_2_Unidad2.pdf)
+
+<hr>
+
+
   
 ## [⬅️ Regresar al menú principal](index.md)
 </div>
