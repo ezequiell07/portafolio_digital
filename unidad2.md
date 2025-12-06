@@ -304,11 +304,15 @@ Otra dificultad frecuente fue mantener el orden lógico entre la entrada de dato
 </p>
 
 # 💡 Reflexión Crítica de Aprendizajes
-
+<p style="text-align: justify;">
 En esta Unidad 2 logramos profundizar en el funcionamiento de las estructuras algorítmicas de control, reconociendo que las decisiones (if, else, switch) y las repeticiones (while, do…while, for) son la base para resolver problemas más complejos en programación. Comprender estas estructuras nos permitió generar algoritmos con mayor autonomía, capaces de adaptarse a diferentes condiciones y realizar múltiples operaciones de forma automática.
-
+</p>
+<p style="text-align: justify;">
 El uso de condicionales nos enseñó a guiar la ejecución del programa según valores ingresados por el usuario, mientras que los bucles nos mostraron cómo automatizar tareas repetitivas sin necesidad de escribir líneas de código innecesarias. La combinación de ambas estructuras fue un punto clave, ya que permitió construir programas más completos, como el que evalúa las notas de varios estudiantes, integrando almacenamiento, condiciones y ciclos.
-
-
+</p>
+<div align="center">
+  
+## [⬅️ Regresar al menú principal](index.md)
+</div>
 
 
