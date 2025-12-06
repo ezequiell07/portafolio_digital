@@ -234,10 +234,8 @@ Cada nota es almacenada en un arreglo para poder mostrarlas nuevamente al final 
 Este ejercicio combina:
 </p>
 
-<ul>
-<li> Estructura repetitiva **for** </li>
-<li>Estructura condicional **if…else** </li>
-</ul>
+* Estructura repetitiva **for** 
+* Estructura condicional **if…else**
 
 ## Diagrama de flujo simplificado
 
@@ -303,10 +301,14 @@ Otra dificultad frecuente fue mantener el orden lógico entre la entrada de dato
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/8d80dd32-813f-4f64-bd26-345cabeacfb3" />
 </p>
 
+<hr>
+
 # 💡 Reflexión Crítica de Aprendizajes
 <p style="text-align: justify;">
-En esta Unidad 2 logramos profundizar en el funcionamiento de las estructuras algorítmicas de control, reconociendo que las decisiones (if, else, switch) y las repeticiones (while, do…while, for) son la base para resolver problemas más complejos en programación. Comprender estas estructuras nos permitió generar algoritmos con mayor autonomía, capaces de adaptarse a diferentes condiciones y realizar múltiples operaciones de forma automática.
+En esta Unidad 2 logramos profundizar en el funcionamiento de las estructuras algorítmicas de control, reconociendo que las decisiones (if, else, switch) y las
+repeticiones (while, do…while, for) son la base para resolver problemas más complejos en programación. Comprender estas estructuras nos permitió generar algoritmos con mayor autonomía, capaces de adaptarse a diferentes condiciones y realizar múltiples operaciones de forma automática.
 </p>
+
 <p style="text-align: justify;">
 El uso de condicionales nos enseñó a guiar la ejecución del programa según valores ingresados por el usuario, mientras que los bucles nos mostraron cómo automatizar tareas repetitivas sin necesidad de escribir líneas de código innecesarias. La combinación de ambas estructuras fue un punto clave, ya que permitió construir programas más completos, como el que evalúa las notas de varios estudiantes, integrando almacenamiento, condiciones y ciclos.
 </p>
