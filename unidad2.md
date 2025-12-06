@@ -194,6 +194,17 @@ Finalmente, el programa cierra el escáner y termina el proceso.
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/3d8f17fd-8d28-4b62-833f-954dccfac6d9" />
 </p>
 
+## Verificación 
+
+Para comprobar el correcto funcionamiento del programa, se utilizaron varios datos de prueba y se registraron las salidas esperadas según la lógica implementada.
+<p align="center">
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/98cbb804-3601-463a-a0c8-d525d1cd7a20" />
+</p>
+
+Al ejecutar el programa en la terminal, las salidas obtenidas coinciden exactamente con los resultados previstos en los casos de prueba, confirmando que el comportamiento del algoritmo es el adecuado.
+<p align="center">
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/d5fa8c4f-ef8e-46a1-97a9-652242c9236b" />
+</p>
 
 
 
