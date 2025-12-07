@@ -344,6 +344,7 @@ El uso de condicionales nos enseñó a guiar la ejecución del programa según v
 <hr>
 
 
+<div align="center">
   
 ## [⬅️ Regresar al menú principal](index.md)
 </div>
