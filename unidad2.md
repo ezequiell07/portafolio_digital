@@ -320,8 +320,8 @@ El uso de condicionales nos enseñó a guiar la ejecución del programa según v
 ## 🎓 ACD: Aprendizaje en Contacto con el Docente
 #### ACD 1. Control de aprendizaje de programas utilizando estructuras condicionales. (Revisión permitida de nota por el EVA)
 - [x] 📎 [Ver Evidencia](assets/ACD_1_UNIDAD2.png)
-#### ACD 2.
-- [x] 📎 [Ver Evidencia](assets/ACD2_UNIDAD2)
+#### ACD 2. Control de aprendizaje de programas utilizando estructuras repetitivas.
+- [x] 📎 [Ver Evidencia](assets/ACD2_UNIDAD2.png)
 
 <hr>
 
