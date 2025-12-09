@@ -321,7 +321,7 @@ El uso de condicionales nos enseñó a guiar la ejecución del programa según v
 #### ACD 1. Control de aprendizaje de programas utilizando estructuras condicionales. (Revisión permitida de nota por el EVA)
 - [x] 📎 [Ver Evidencia](assets/ACD_1_UNIDAD2.png)
 #### ACD 2.
-- [x] 📎 [Ver Evidencia]
+- [x] 📎 [Ver Evidencia](assets/ACD2_UNIDAD2)
 
 <hr>
 
