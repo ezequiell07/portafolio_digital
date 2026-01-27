@@ -1,6 +1,9 @@
 <img src="https://inscripciones.unl.edu.ec/images/logo_unl.png" width="400" height="130">
+</div>
 
 # 🎓 Conclusiones Generales
+
+<div style="text-align: justify;">
 
 A través del recorrido por estas tres unidades, este portafolio evidencia una evolución significativa en mi formación como programador, transformando el pensamiento lógico abstracto en soluciones de software estructuradas y funcionales. A continuación, se detallan las conclusiones clave derivadas de la integración de los conocimientos adquiridos:
 
@@ -19,7 +22,7 @@ La transición de estructuras lineales a estructuras de control marcó el salto 
 ### 3. Organización, Eficiencia y Manejo de Datos
 La introducción a la **Programación Modular** y las **Estructuras de Datos** representó el avance hacia la programación profesional y escalable.
 
-* La aplicación del principio *"Divide y Vencerás"* mediante funciones y procedimientos me permitió escribir código más limpio, legible y fácil de depurar, solucionando los problemas de desorden que surgían al escribir todo en el `main`.
+* La aplicación del principio **"Divide y Vencerás"** mediante funciones y procedimientos me permitió escribir código más limpio, legible y fácil de depurar, solucionando los problemas de desorden que surgían al escribir todo en el `main`.
 * El dominio de los Arreglos (Vectores y Matrices) expandió mi capacidad para procesar grandes volúmenes de información de manera conjunta, superando la limitación de gestionar variables aisladas.
 
 ### 4. Superación de Desafíos Técnicos y Lógicos
@@ -31,3 +34,10 @@ Este proceso de aprendizaje no estuvo exento de retos. Desde la frustración ini
 ---
 
 En conclusión, este portafolio demuestra que he adquirido las competencias necesarias para **analizar un problema, diseñar una solución algorítmica y codificarla eficientemente** utilizando estructuras de control y modularidad. Estoy preparado para enfrentar desafíos de programación más complejos, entendiendo que la base de todo gran software es una lógica sólida, un código ordenado y una gestión eficiente de los datos.
+
+
+
+<div align="center">
+  
+## [⬅️ Regresar al menú principal](index.md)
+</div>
