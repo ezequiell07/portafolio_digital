@@ -165,19 +165,24 @@ Asimismo, la incorporación de <b>estructuras de datos estáticas</b> (arreglos)
 # 📑 Tareas Entregadas
 
 ## 🎓 ACD: Aprendizaje en Contacto con el Docente
-#### ACD 1. Resolución de problemas usando funciones y procedimientos
+#### ACD 1. Proyecto Académico Integrador
 - [x] 📎 [Ver Evidencia](assets/ACD_1_UNIDAD3.pdf)
 
+#### ACD 2. Control de aprendizaje sobre python
+- [x] 📎 [Ver Evidencia](assets/ACD_1_UNIDAD3.pdf)
 <hr>
 
 ## 💻 APE: Aprendizaje Práctico Experimental
-#### APE 1. Implementación de arreglos unidimensionales y bidimensionales
+#### APE 1. Construcción de funciones y procedimientos en un lenguaje de programación
+- [x] 📎 [Ver Evidencia](assets/APE1_UNIDAD3.pdf)
+
+#### APE 2. Implementación de funciones utilizando el paso de parámetros por valor y por referencia.
 - [x] 📎 [Ver Evidencia](assets/APE1_UNIDAD3.pdf)
 
 <hr>
 
 ## ✍️ AA: Aprendizaje Autónomo
-#### AA 1. Investigación sobre paso de parámetros por valor y por referencia
+#### AA 1. Curso Fundamentos de Python 1. Computación UNL
 - [x] 📎 [Ver Evidencia](assets/AA_1_UNIDAD3.pdf)
 
 <hr>
