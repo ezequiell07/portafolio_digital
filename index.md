@@ -30,7 +30,8 @@
 
 ---
 
-## ✅ Conclusiones Generales (No aplica)
+## ✅ Conclusiones Generales
+#### [➡️ Ver Conclusiones Generales](xconclusionesgenerales.md)
 
 ---
 
