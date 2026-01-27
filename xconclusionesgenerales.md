@@ -28,7 +28,7 @@ La introducción a la **Programación Modular** y las **Estructuras de Datos** r
 ### 4. Superación de Desafíos Técnicos y Lógicos
 Este proceso de aprendizaje no estuvo exento de retos. Desde la frustración inicial con los errores de sintaxis (puntos y comas, tipos de datos) en la Unidad 1, hasta la complejidad lógica de los ciclos anidados y el ámbito de las variables (*scope*) en la Unidad 3.
 
-* Superar estas barreras fortaleció mi capacidad de resolución de problemas (*troubleshooting*).
+* Superar estas barreras fortaleció mi capacidad de resolución de problemas.
 * Validar los programas con **Pruebas de Escritorio** se convirtió en una práctica indispensable para asegurar la fiabilidad del software antes de su implementación final.
 
 ---
