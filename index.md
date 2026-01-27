@@ -25,7 +25,7 @@
 
 ---
 
-## 🗃️ Unidad 3 (No aplica)
+## 🗃️ Unidad 3
 #### [➡️ Ver Unidad 3](unidad3.md)
 
 ---
