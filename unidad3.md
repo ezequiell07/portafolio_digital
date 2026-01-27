@@ -166,10 +166,10 @@ Asimismo, la incorporación de <b>estructuras de datos estáticas</b> (arreglos)
 
 ## 🎓 ACD: Aprendizaje en Contacto con el Docente
 #### ACD 1. Proyecto Académico Integrador
-- [x] 📎 [Ver Evidencia](assets/ACD_1_UNIDAD3.pdf)
+- [x] 📎 [Ver Evidencia]
 
 #### ACD 2. Control de aprendizaje sobre python
-- [x] 📎 [Ver Evidencia](assets/ACD_1_UNIDAD3.pdf)
+- [x] 📎 [Ver Evidencia](assets/ACD2_UNIDAD3.png)
 <hr>
 
 ## 💻 APE: Aprendizaje Práctico Experimental
@@ -177,13 +177,13 @@ Asimismo, la incorporación de <b>estructuras de datos estáticas</b> (arreglos)
 - [x] 📎 [Ver Evidencia](assets/APE1_UNIDAD3.pdf)
 
 #### APE 2. Implementación de funciones utilizando el paso de parámetros por valor y por referencia.
-- [x] 📎 [Ver Evidencia](assets/APE1_UNIDAD3.pdf)
+- [x] 📎 [Ver Evidencia](assets/APE2_UNIDAD3.png)
 
 <hr>
 
 ## ✍️ AA: Aprendizaje Autónomo
 #### AA 1. Curso Fundamentos de Python 1. Computación UNL
-- [x] 📎 [Ver Evidencia](assets/AA_1_UNIDAD3.pdf)
+- [x] 📎 [Ver Evidencia](AA1_certificado_emerson.pdf)
 
 <hr>
 <div align="center">
