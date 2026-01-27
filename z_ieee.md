@@ -32,6 +32,21 @@ Programando en C desde la práctica: problemas resueltos. Puerto Madero:
 Puerto Madero Editorial, 2023. [Online]. Available:
 https://dialnet.unirioja.es/servlet/libro?codigo=933288
 
+# Unidad 3
+
+[1] M. Goin, Caminando junto al Lenguaje C. Río Negro, Argentina: 
+Editorial UNRN, 2022. 
+[Online]. 
+Available: 
+https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-cated 
+ra/26/caminando-junto-al-lenguaje-c?tab=getmybooksTab&is_show_data
+=1
+
+[2] J. E. Guerra Salazar, M. V. Ramos Valencia, and G. E. Vallejo Vallejo, 
+Programando en C desde la práctica: problemas resueltos. Puerto 
+Madero: Puerto Madero Editorial, 2023. [Online]. Available: 
+https://dialnet.unirioja.es/servlet/libro?codigo=933288
+
 
 
 
