@@ -145,7 +145,7 @@ Adicionalmente, el manejo de <b>arreglos bidimensionales (matrices)</b> present√
 </p>
 
 <p align="center">
-<img width="400" height="300" src="https://cdn-icons-png.flaticon.com/512/2312/2312388.png" alt="Dificultades Logic" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/8d80dd32-813f-4f64-bd26-345cabeacfb3" />
 </p>
 
 <hr>
