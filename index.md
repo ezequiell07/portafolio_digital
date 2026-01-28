@@ -20,17 +20,17 @@
 
 ---
 
-## 🗃️ Unidad 2
+## 🗃️ Unidad 2:
 #### [➡️ Ver Unidad 2](unidad2.md)
 
 ---
 
-## 🗃️ Unidad 3
+## 🗃️ Unidad 3:
 #### [➡️ Ver Unidad 3](unidad3.md)
 
 ---
 
-## ✅ Conclusiones Generales
+## ✅ Conclusiones Generales:
 #### [➡️ Ver Conclusiones Generales](xconclusionesgenerales.md)
 
 ---
