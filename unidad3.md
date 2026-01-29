@@ -186,6 +186,9 @@ Asimismo, la incorporación de <b>estructuras de datos estáticas</b> (arreglos)
 
 #### ACD 2. Control de aprendizaje sobre python
 - [x] 📎 [Ver Evidencia](assets/ACD2_UNIDAD3.png)
+
+#### APE 3. Estructuras de datos compuestas en un lenguaje de programación
+- [x] 📎 [Ver Evidencia]
 <hr>
 
 ## 💻 APE: Aprendizaje Práctico Experimental
