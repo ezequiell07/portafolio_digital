@@ -28,24 +28,18 @@ A continuación se observa cómo un programa principal (Main) delega tareas a su
 
 ## 🔹 **Funciones y Procedimientos**
 
-<p style="text-align: justify;">
-En la práctica, la modularidad se implementa mediante:
-<br><br>
-1. <b>Funciones:</b> Bloques de código que reciben datos de entrada, realizan un cálculo y <b>retornan un valor</b> (ej. <code>CalcularSuma</code>).
-<br>
-2. <b>Procedimientos:</b> Bloques que ejecutan una acción (como mostrar un menú o limpiar pantalla) pero <b>no retornan valor</b> explícito (en C se usan como funciones <code>void</code>).
-<br><br>
-El intercambio de información entre el programa principal y los módulos se realiza a través de <b>parámetros</b>.
-</p>
-
-### **Codificación en C**
-
-<p style="text-align: justify;">
-En este ejemplo se observa una función <code>sumar</code> definida antes del <code>main</code>, la cual recibe dos enteros y devuelve el resultado.
-</p>
+## Pase de Parametros por Valor
+### En este caso, la función recibe una copia del dato. Imagina que me das una fotocopia de tu dibujo; yo puedo rayar la fotocopia, pero tu dibujo original en casa sigue intacto.
 
 <p align="center">
-<img width="300" height="200" src="https://github.com/user-attachments/assets/c02190bd-1027-4ba1-abff-1194cefce972" " alt="Código Funciones" />
+<img width="300" height="200" src="https://github.com/user-attachments/assets/195046a8-026f-438d-b0c8-2e23fe9cf865" alt="Código Funciones" />
+</p>
+
+## Pase de Parametros por Referencia
+### Aquí mandas la ubicación exacta en la memoria usando el operador &. La función usa un puntero * para entrar a esa dirección y modificar el dato original.
+
+<p align="center">
+<img width="300" height="200" src="https://github.com/user-attachments/assets/5aa9110a-203b-4d97-999d-8375c9082d6b" alt="Código Funciones" />
 </p>
 
 ---
