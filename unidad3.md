@@ -112,6 +112,28 @@ Para recorrer una matriz se utilizan dos ciclos <code>for</code> anidados: el ex
 
 ---
 
+## 🔹 **Arreglos Tridimensionales (Matrices)**
+
+Un arreglo tridimensional es una estructura de datos que permite almacenar información en **tres dimensiones**, organizadas como **capas, filas y columnas**.
+
+Cada elemento se accede mediante **tres índices**:
+
+### **Representación Gráfica**
+<p style="text-align: justify;"> Esquema de un arreglo 3D donde se observa la organización por niveles. Cada celda es un espacio de memoria contiguo identificado por tres coordenadas espaciales. </p>
+
+<p align="center">
+<img width="300" src="https://github.com/user-attachments/assets/2885da45-c966-4a24-a738-86f4c262f990" Matriz" />
+</p>
+
+### **Codificación**
+<p style="text-align: justify;"> El siguiente código en <b>lenguaje C</b> muestra la declaración de un arreglo <code>int cubo[2][2][3]</code> y el uso de tres ciclos <code>for</code> anidados para recorrer la estructura completa y asignar valores secuenciales. </p>
+
+<p align="center">
+<img width="300" height="200" src="https://github.com/user-attachments/assets/a8bb9a35-0bfa-4483-b3b1-c2dfac67ef9c" alt="Código Matriz" />
+</p>
+
+
+
 ## 🔹 **Cadenas de Caracteres (Strings)**
 
 <p style="text-align: justify;">
