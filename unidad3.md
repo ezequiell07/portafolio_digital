@@ -69,7 +69,7 @@ Esquema de un vector de tamaño N, donde cada celda tiene su índice y contenido
 </p>
 
 <p align="center">
-<img width="400" src="https://github.com/user-attachments/assets/fb3de568-e774-4afd-b138-c6270c627a2a" alt="Vector" />
+<img width="300" src="https://github.com/user-attachments/assets/fb3de568-e774-4afd-b138-c6270c627a2a" alt="Vector" />
 </p>
 
 ### **Codificación**
